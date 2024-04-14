@@ -43,7 +43,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This application was created for convenient time display
+The application displays timers for cooking various dishes
 
 ### Built With
 
