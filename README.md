@@ -57,7 +57,7 @@ This application was created for convenient time display
 
 ### Installation
 
-1. Get a free API Key at [https://telehatodolist.netlify.app](https://telehatodolist.netlify.app)
+1. Get a free API Key at [https://teleha-cooking-app.netlify.app](https://teleha-cooking-app.netlify.app)
 2. Clone the repo
    ```sh
    git clone github.com/TelehaDima/WeekThreeToDoList
@@ -74,7 +74,7 @@ This application was created for convenient time display
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-_For more examples, please refer to the [Documentation](https://telehatodolist.netlify.app)_
+_For more examples, please refer to the [Documentation](https://teleha-cooking-app.netlify.app)_
 
 <!-- CONTRIBUTING -->
 ## Contributing
