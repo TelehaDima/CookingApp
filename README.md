@@ -9,7 +9,7 @@
     <br />
     <a href="https://github.com/TelehaDima/CookingApp">View Demo</a>
     ·
-    <a href="https://github.com/TelehaDima/WeekThreeToDoList/blob/main/Report-Bug">Report Bug</a>
+    <a href="https://github.com/TelehaDima/CookingApp/blob/main/Report%20Bug">Report Bug</a>
     ·
     <a href="https://github.com/TelehaDima/WeekThreeToDoList/blob/main/Request%20Feature">Request Feature</a>
   </p>
