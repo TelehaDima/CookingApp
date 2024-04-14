@@ -1,4 +1,4 @@
-<h3 align="center">To Do List</h3>
+<h3 align="center">Cooking App</h3>
 
 <div align="center">
   <a href="[https://github.com/othneildrew/Best-README-Template">
@@ -7,7 +7,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/TelehaDima/WeekThreeToDoList">View Demo</a>
+    <a href="https://github.com/TelehaDima/CookingApp">View Demo</a>
     ·
     <a href="https://github.com/TelehaDima/WeekThreeToDoList/blob/main/Report-Bug">Report Bug</a>
     ·
@@ -60,7 +60,7 @@ This application was created for convenient time display
 1. Get a free API Key at [https://teleha-cooking-app.netlify.app](https://teleha-cooking-app.netlify.app)
 2. Clone the repo
    ```sh
-   git clone github.com/TelehaDima/WeekThreeToDoList
+   git clone https://github.com/TelehaDima/CookingApp
    ```
 3. Install NPM packages
    ```sh
@@ -84,9 +84,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/WeekThreeToDoList`)
-3. Commit your Changes (`git commit -m 'Add some WeekThreeToDoList'`)
-4. Push to the Branch (`git push origin feature/WeekThreeToDoList`)
+2. Create your Feature Branch (`git checkout -b feature/CookingApp`)
+3. Commit your Changes (`git commit -m 'Add some CookingApp'`)
+4. Push to the Branch (`git push origin feature/CookingApp`)
 5. Open a Pull Request
 
 <!-- LICENSE -->
@@ -99,7 +99,7 @@ No license is required for this product
 
 E-mail - telehadmytro@gmail.com
 
-Project Link: [github.com/TelehaDima/WeekThreeToDoList](github.com/TelehaDima/WeekThreeToDoList)
+Project Link: [github.com/TelehaDima/CookingApp](github.com/TelehaDima/CookingApp)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
