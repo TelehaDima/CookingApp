@@ -11,7 +11,7 @@
     ·
     <a href="https://github.com/TelehaDima/CookingApp/blob/main/Report%20Bug">Report Bug</a>
     ·
-    <a href="">Request Feature</a>
+    <a href="https://github.com/TelehaDima/CookingApp/blob/main/Request%20Feature">Request Feature</a>
   </p>
 </div>
 
