@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="[https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/TelehaDima/CookingApp/blob/main/%D0%A1ookingApp.png" alt="Logo" width="500" height="400">
+    <img src="https://github.com/TelehaDima/CookingApp/blob/main/%D0%A1ookingApp.png" alt="Logo" width="400" height="400">
   </a>
 
   <p align="center">
