@@ -74,7 +74,7 @@ The application displays timers for cooking various dishes
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-_For more examples, please refer to the [Documentation](https://teleha-cooking-app.netlify.app)_
+_For more examples, please refer to the [https://teleha-cooking-app.netlify.app](https://teleha-cooking-app.netlify.app)_
 
 <!-- CONTRIBUTING -->
 ## Contributing
